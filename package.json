@@ -1,6 +1,6 @@
 {
   "name": "tebro-filestore",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "A library for using the FileStore datastorage microservice.",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,8 @@
     "filestore"
   ],
   "author": "Richard Weber",
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "bugs": "https://github.com/Tebro/FileStore-node/issues",
+  "repository": "github:Tebro/FileStore-node",
+  "homepage": "https://github.com/Tebro/FileStore-node/"
 }
