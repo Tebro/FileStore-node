@@ -1,0 +1,14 @@
+{
+  "name": "filestore",
+  "version": "0.1.0",
+  "description": "A library for using the FileStore datastorage microservice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "filestore"
+  ],
+  "author": "Richard Weber",
+  "license": "GPL-3.0"
+}
